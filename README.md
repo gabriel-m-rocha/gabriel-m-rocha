@@ -38,4 +38,5 @@ Se você compartilha dos mesmos interesses, sinta-se à vontade para colaborar e
 Contato
 
 Email: gabriel-m.rocha@hotmail.com
+
 LinkedIn: [https://www.linkedin.com/in/gabriel-mendes-da-rocha-171a6b248
