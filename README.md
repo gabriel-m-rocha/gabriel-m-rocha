@@ -7,9 +7,19 @@ Sou um entusiasta de cibersegurança e programação, atualmente focado no estud
 Áreas de Interesse
 
 Cibersegurança: Estou continuamente desenvolvendo minhas habilidades em análise de vulnerabilidades, pentesting, e escalonamento de privilégios.
-Programação: Python é minha linguagem principal no momento, mas estou sempre aberto a explorar outras linguagens e tecnologias que possam complementar meus projetos.
-Banco de Dados: Em breve, vou aprofundar meus conhecimentos em banco de dados, entendendo desde a modelagem até a otimização e segurança dos dados.
-Machine Learning: Planejo me especializar em Machine Learning para combinar minhas habilidades em programação e análise de dados, com o objetivo de criar soluções inovadoras e seguras.
+
+Programação:
+
+Python é minha linguagem principal no momento, mas estou sempre aberto a explorar outras linguagens e tecnologias que possam complementar meus projetos.
+
+Banco de Dados:
+
+Em breve, vou aprofundar meus conhecimentos em banco de dados, entendendo desde a modelagem até a otimização e segurança dos dados.
+
+Machine Learning:
+
+Planejo me especializar em Machine Learning para combinar minhas habilidades em programação e análise de dados, com o objetivo de criar soluções inovadoras e seguras.
+
 Projetos Atuais
 
 
